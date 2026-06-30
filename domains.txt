@@ -41,6 +41,7 @@ cfdata.org
 cfl.re
 
 # === Продукты ===
+one.one.one.one
 cloudflareaccess.com
 cloudflareapps.com
 cloudflarebolt.com
