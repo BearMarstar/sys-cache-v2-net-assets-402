@@ -1,44 +1,46 @@
-cloudflare-dns.com
-cloudflare-esni.com
-cloudflare-gateway.com
-cloudflare-ipfs.com     ← (через include:cloudflare-ipfs)
-cloudflare-quic.com
-cloudflare.net
-cloudflare.tv
-cloudflarewarp.com
-# Основные
+# === Основные ===
 cloudflare.com
 cloudflare.dev
+cloudflare.net
+cloudflare.tv
+
+# === DNS ===
+cloudflare-dns.com
+every1dns.net
+foundationdns.com
+foundationdns.net
+foundationdns.org
+one.one.one.one
+
+# === Безопасность / шифрование ===
+cloudflare-esni.com
 cloudflare-ech.com
 cloudflare-terms-of-service-abuse.com
+encryptedsni.com
+isbgpsafeyet.com
 
-# Сервисные / инфраструктурные
+# === Tunnel / Gateway / WARP ===
 argotunnel.com
 cfargotunnel.com
-cfdata.org
-cfl.re
-browser.run
-encryptedsni.com
-warp.plus
+cloudflare-gateway.com
+cloudflare-quic.com
 trycloudflare.com
-pacloudflare.com
+warp.plus
+cloudflarewarp.com
 
-# CDN / доставка контента
+# === IPFS ===
+cloudflare-ipfs.com
+
+# === CDN / доставка ===
 imagedelivery.net
 videodelivery.net
 pages.dev
 r2.dev
 workers.dev
+cfdata.org
+cfl.re
 
-# DNS
-cloudflare-dns.com       ← уже есть
-every1dns.net
-foundationdns.com
-foundationdns.net
-foundationdns.org
-one.one.one
-
-# Продукты / сервисы
+# === Продукты ===
 cloudflareaccess.com
 cloudflareapps.com
 cloudflarebolt.com
@@ -61,4 +63,5 @@ cloudflarestream.com
 cloudflaresupport.com
 cloudflaretest.com
 cloudflareworkers.com
-isbgpsafeyet.com
+browser.run
+pacloudflare.com
